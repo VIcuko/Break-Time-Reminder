@@ -1,3 +1,5 @@
+import time
 import webbrowser
 
-webbrowser.open("http://www.nintendo.es")
+time.sleep(10)
+webbrowser.open("https://www.youtube.com/watch?v=pWn7PYm-W90")
